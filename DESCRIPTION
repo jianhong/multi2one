@@ -1,0 +1,15 @@
+Package: multi2one
+Type: Package
+Title: alignment multiple fasta files to one template
+Version: 0.0.1
+Author: Jianhong Ou
+Maintainer: Jianhong Ou <jianhong.ou@gmail.com>
+Description: alignment multiple fasta files to one template.
+Depends: R (>= 3.4)
+Imports: Biostrings, utils
+Suggests: knitr
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
